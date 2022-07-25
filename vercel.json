@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://svnset-music.vercel.app/:match*"
+      "destination": "https://netease-cloud-music-api-flax-rho.vercel.app/:match*"
     }
   ]
 }
