@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://yes-play-music-xi-nine.vercel.app/:match*"
+      "destination": "https://svnset-music.vercel.app/:match*"
     }
   ]
 }
